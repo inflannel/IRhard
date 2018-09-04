@@ -11,4 +11,6 @@ File structure of an IRhard folder within the the Arduino library folder should 
  * README.md  
  * IRhard.h  
  * IRhard.cpp  
+ * keywords.txt  
+ * library.properties
  * examples/IRreader/IRreader.ino

@@ -1,4 +1,0 @@
-IRhard	KEYWORD1
-code	KEYWORD2
-rcid	KEYWORD2
-key	KEYWORD2
